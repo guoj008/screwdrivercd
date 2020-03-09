@@ -1,0 +1,1 @@
+FROM screwdrivercd/ui:stable
